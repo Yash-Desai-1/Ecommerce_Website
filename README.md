@@ -39,3 +39,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 `https://stripe.com/docs`
 #For managing products ---> Sanity 
 `https://www.sanity.io/docs`
+
+Website Overview
+![image](https://user-images.githubusercontent.com/109528026/212528276-d25312f3-0d3d-40b1-866b-9432470ffdfb.png)
+![image](https://user-images.githubusercontent.com/109528026/212528288-a252f615-3ad6-42b0-9b5c-eb2fdf4bdf23.png)
+![image](https://user-images.githubusercontent.com/109528026/212528300-cda4492d-ecce-4c17-b227-dd72c1661c92.png)
+

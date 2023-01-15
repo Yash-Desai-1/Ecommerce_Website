@@ -18,8 +18,11 @@ To learn more about Next.js, take a look at the following resources:
  -[JavaScript Mastery ](https://youtu.be/4mOkFXyxfsU)
 ## environment variables
 add your variables in .env file
- as   NEXT_PUBLIC_SANITY_TOKEN,
+ as   
+ NEXT_PUBLIC_SANITY_TOKEN,
+ 
  NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY,
+ 
  NEXT_PUBLIC_STRIPE_SECRET_KEY
   
 

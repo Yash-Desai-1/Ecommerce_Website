@@ -15,8 +15,7 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 ## Video Tutorial available on
- -[JavaScript Mastery](https://youtu.be/4mOkFXyxfsU)
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+ -[JavaScript Mastery ](https://youtu.be/4mOkFXyxfsU)
 ## environment variables
 add your variables in .env file
  as   NEXT_PUBLIC_SANITY_TOKEN,
